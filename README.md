@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently majoring Computer Science at Unesp(Bauru)<br>Interested at Machine Learning, Competitive Programming and Cybersecurity <br>Working on Shelved app<br>
+🎓 Currently majoring Computer Science at Unesp(Bauru)<br>🔎 Interested at Machine Learning, Competitive Programming and Cybersecurity <br>🔧 Working on Shelved app<br>
 
 
 ## 🌐 Socials:
